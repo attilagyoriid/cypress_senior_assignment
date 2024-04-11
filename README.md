@@ -6,7 +6,7 @@ Website: https://attila-gyori.com
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF1dg2KtKFdPg/company-logo_200_200/0/1626295436859?e=2159024400&v=beta&t=Ib_T9PXXQxkHRKnj3Oe65EKuR6EAh01IgAA6IGvU0FY" alt="exemplo imagem">
 
-> Cypress 12+ with Cucumber, Page Object Model, Allure report project.
+> Cypress 13+ with Typescript, Page Object Model, mochawesome report and docker project.
 
 ### 💻 Topics
 
