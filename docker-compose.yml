@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  cypress_test:
+    image: cypress_compose
+    container_name: cypress_compose_container
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./dockerReports:/app/cypress/reports
